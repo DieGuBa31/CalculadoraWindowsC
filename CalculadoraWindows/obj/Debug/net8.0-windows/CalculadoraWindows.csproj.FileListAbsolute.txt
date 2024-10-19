@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.Form1.resources
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.AssemblyInfo.cs
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.exe
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.deps.json
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.runtimeconfig.json
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\bin\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.dll
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\refint\CalculadoraWindows.dll
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.pdb
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\CalculadoraWindows.genruntimeconfig.cache
+C:\Users\diego\source\repos\CalculadoraWindows\CalculadoraWindows\obj\Debug\net8.0-windows\ref\CalculadoraWindows.dll
